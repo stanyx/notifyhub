@@ -1,0 +1,19 @@
+Server:
+  Port: 5000
+
+Telegram:
+  BotToken: '1946138805:AAH0gfAhgmTOIHObu5AKSo5AXvHi51VZPjI'
+
+Database:
+  Port: 5433
+
+Email:
+  Host: "smtp.gmail.com"
+  Port: 587
+  Login: ''
+  Password: ''
+  InsecureSkipVerify: true
+
+Sms:
+  Login: ''
+  Key: ''
